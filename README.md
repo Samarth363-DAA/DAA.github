@@ -8,7 +8,7 @@ Hello, We are:
 - *Manjunath Nagalapur*
 - *Anup Mallannavar*
 - *Mohit Belgavi*
-- *Samarth Bellad* 👋
+- *Samarth Bellad* 
 
 We are passionate about technology and problem-solving. Here's a glimpse of our work:
 
